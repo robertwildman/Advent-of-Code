@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Task2 {
 
-	//Program Passed
 		public static void main(String[] args) {
 			//Main Task 2
 			//Task is to work out when he first enter the basement 

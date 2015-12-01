@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Task2 {
 
-	//Program Passed
 		public static void main(String[] args) {
 			//Main Task 2
 			//Task is to work out when he first enter the basement 
@@ -27,7 +26,7 @@ public class Task2 {
 				if((open-closed) < 0)
 				{
 					//In basement at pos 
-					System.out.println(i+1);
+					System.out.println(i);
 					//Close loop 
 					i = input.length();
 				}
